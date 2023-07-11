@@ -1,1 +1,1 @@
-﻿Um projeto em que utilizamos JavaScript para criar uma calculadora.
+Utilizando JavaScript criei uma calculadora.
